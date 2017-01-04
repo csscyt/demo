@@ -4,6 +4,10 @@ void main()
 
     printf("branch");
 
+   printf("clone");
+
+
+
 
    printf("rebase");
 }
