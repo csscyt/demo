@@ -9,7 +9,6 @@ void main()
    printf("clone");
 
 
-
-
+   printf("git revert\n")
    printf("rebase");
 }
