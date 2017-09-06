@@ -11,4 +11,5 @@ void main()
 
    printf("git revert\n")
    printf("rebase");
+   printf("git pull --rebase");
 }
